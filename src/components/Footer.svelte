@@ -1,0 +1,1 @@
+<footer>Isso é um footer! &copy; Mayc Rodrigues</footer>
